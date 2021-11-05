@@ -41,4 +41,5 @@ feature construction and model performance evaluation.
 recommendations you would make to the Magazine business? Please prepare a few
 slides summarizing your findings and recommendations, keeping in mind how you would
 explain the results to a non-technical audience.
-You should be prepare
+You should be prepared to present your analyses, findings and recommendations during your
+Super Day interview.
